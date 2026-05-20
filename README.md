@@ -28,11 +28,12 @@ arXiv Paper: [https://arxiv.org/abs/2602.07534](https://arxiv.org/abs/2602.07534
 
 ## 📊 Results
 
-### Confusion Matrix
-![Confusion Matrix](results/Normaized_CM.png)
 
-### Training Curve
-![Training Curve](results/training_curve.png)
+### Confusion Matrix (Normalized)
+![Confusion Matrix](results/Normalized_CM.png)
+
+### Accuracy Curve
+![Accuracy Curve](results/Accuracy_curve.png)
 
 ## 🚀 Demo
 
