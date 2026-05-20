@@ -28,8 +28,6 @@ arXiv Paper: [https://arxiv.org/abs/2602.07534](https://arxiv.org/abs/2602.07534
 
 ## 📊 Results
 
-## 📊 Results
-
 ### Confusion Matrix
 ![Confusion Matrix](results/confusion_matrix.png)
 
