@@ -29,7 +29,7 @@ arXiv Paper: [https://arxiv.org/abs/2602.07534](https://arxiv.org/abs/2602.07534
 ## 📊 Results
 
 ### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/Normaized_CM.png)
 
 ### Training Curve
 ![Training Curve](results/training_curve.png)
